@@ -7,7 +7,9 @@
 //  Created by bang_hyeonseok aka GeekCode on 3/15/24.
 //
 
+#if canImport(SwiftUI)
 import SwiftUI
+#endif
 import UIKit
 
 // MARK: - UIViewController 확장
